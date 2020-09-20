@@ -21,6 +21,8 @@ class CommonUtility {
 
 class MaximumInteger {
 	public int maximun(int x, int y, int z) {
+		
+		int n=0;
 
 		int max = x;
 
