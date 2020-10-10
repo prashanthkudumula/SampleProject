@@ -75,6 +75,7 @@ public class GenericsExample {
 static void run(){
 		
 		System.out.println("success");
+		System.out.println("Hello");
 		
 		
 	}
