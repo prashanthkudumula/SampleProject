@@ -12,7 +12,7 @@ import java.util.List;
 
 //T,E,V,K ,Map<K,V>
 
-
+// Data added by Prashanth
 class CommonUtility {
 	public <T> long getCountObjects(List<T> list) {
 		return list.stream().count();
