@@ -15,6 +15,7 @@ import java.util.List;
 //DATA ADDED
 // Data added by Prashanth
 //Hello World
+//check
 class CommonUtility {
 	public <T> long getCountObjects(List<T> list) {
 		return list.stream().count();
