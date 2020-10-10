@@ -71,6 +71,13 @@ class MaximunGeneric {
 
 public class GenericsExample {
 
+	
+static void run(){
+		
+		System.out.println("success");
+		
+		
+	}
 	public static void main(String[] args) {
 
 		// 2.provide type Safety
