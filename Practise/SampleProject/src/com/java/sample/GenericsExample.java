@@ -79,13 +79,6 @@ static void run(){
 		
 	}
 
-
-static void testRun(){
-	
-	System.out.println("Hello");
-	
-	
-}
 	public static void main(String[] args) {
 
 		// 2.provide type Safety
